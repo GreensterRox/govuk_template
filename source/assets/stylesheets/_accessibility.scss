@@ -115,7 +115,7 @@ button:focus {
     outline: none;
   }
 
-  a:focus {
-	  color: $black;
+  #proposition-name:focus, a:focus {
+    color: $text-colour;
   }
 }
